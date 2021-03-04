@@ -1,0 +1,1 @@
+Le dossier PIC16F18444_DEV.X contient le projet MPLAB avec le programme développé pour le module de veille.
